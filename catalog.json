@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "id": "playbeat",
+      "name": "PlayBeat",
+      "subtitle": "Música sin límites",
+      "packageName": "com.retumbero.playbeat",
+      "description": "Reproductor de música sin límites y sin anuncios. Vídeo musical cuando la canción lo tiene, letras sincronizadas, mezcla con cruce ajustable y tus descargas para cuando no hay red.",
+      "versionName": "2.0.35",
+      "versionCode": 166,
+      "downloadUrl": "https://github.com/saenzkissinger982-ship-it/Retum-Store/releases/download/playbeat-2.0.35/PlayBeat-2.0.35-166.apk",
+      "sha256": "5f1b0145cb00376cc5fd0472cf19af2a639f28a3ed2115a667104be8a0e7a3cc",
+      "sizeBytes": 86407102,
+      "rating": "4,9",
+      "reviews": "12K reseñas",
+      "downloads": "100K+",
+      "updated": "2026-11-09"
+    }
+  ]
+}
