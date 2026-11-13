@@ -21,16 +21,16 @@
       "name": "Retumbero DSP",
       "subtitle": "Epicenter y graves profundos",
       "packageName": "app.retumberodsp.www",
-      "description": "Reproductor con motor de audio Epicenter: sintetiza el sub grave, EQ y efectos. Limitador real con techo fijo en -0.3 dBFS que no baja el volumen ni el bajo.",
-      "versionName": "150.5.0-beta",
-      "versionCode": 152420,
-      "downloadUrl": "https://github.com/saenzkissinger982-ship-it/Retum-Store/releases/download/retumberodsp-150.5.0/RetumberoDSP-150.5.0-152420.apk",
-      "sha256": "cc671e1596cebdda0d53e611ccffb0f6c33bfe0147daf5f7addc96dd391a51da",
-      "sizeBytes": 78797468,
+      "description": "Reproductor con motor de audio Epicenter: sintetiza el sub grave, EQ y efectos. AUTO-BASS refuerza el bajo en musica con poco bajo (cumbia, bachata) y se apaga si ya tiene. Limitador real con techo fijo en -0.3 dBFS.",
+      "versionName": "150.6.0-beta",
+      "versionCode": 152421,
+      "downloadUrl": "https://github.com/saenzkissinger982-ship-it/Retum-Store/releases/download/retumberodsp-150.6.0/RetumberoDSP-150.6.0-152421.apk",
+      "sha256": "cb891c17d88218682523fb37af8106e1151fc127e0e9a4186e887192a3a627e5",
+      "sizeBytes": 79123592,
       "rating": "",
       "reviews": "",
       "downloads": "",
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
     }
   ]
 }
