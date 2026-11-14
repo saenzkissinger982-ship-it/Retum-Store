@@ -21,16 +21,16 @@
       "name": "Retumbero DSP",
       "subtitle": "Epicenter y graves profundos",
       "packageName": "app.retumberodsp.www",
-      "description": "Reproductor con motor de audio Epicenter: sintetiza el sub grave, EQ y efectos. AUTO-BASS refuerza el bajo en musica con poco bajo (cumbia, bachata) y cede al bajo original si ya lo tiene, sin perder graves. Limitador real con techo fijo en -0.3 dBFS.",
-      "versionName": "150.6.1-beta",
-      "versionCode": 152422,
-      "downloadUrl": "https://github.com/saenzkissinger982-ship-it/Retum-Store/releases/download/retumberodsp-150.6.1/RetumberoDSP-150.6.1-152422.apk",
-      "sha256": "7b0561093917991be0ae182feb7624eadc6295be9ce2b71efdabeaa7eebf2b06",
-      "sizeBytes": 79124328,
+      "description": "Reproductor con motor de audio Epicenter: sintetiza el sub grave, EQ y efectos. AUTO-BASS refuerza el bajo en musica con poco bajo (cumbia, bachata) y cede al bajo original si ya lo tiene, sin perder graves. Limitador real con techo fijo en -0.3 dBFS. Nuevo: panel LG CJ88 digital (Fase 1) elegible en Ajustes.",
+      "versionName": "150.7.0-beta",
+      "versionCode": 152423,
+      "downloadUrl": "https://github.com/saenzkissinger982-ship-it/Retum-Store/releases/download/retumberodsp-150.7.0/RetumberoDSP-150.7.0-152423.apk",
+      "sha256": "5509f6675f7250dd0f2558fb589d3e6817d1d9a13c559b4aa6ad60de7b689e17",
+      "sizeBytes": 79271552,
       "rating": "",
       "reviews": "",
       "downloads": "",
-      "updated": "2026-11-13"
+      "updated": "2026-11-14"
     }
   ]
 }
